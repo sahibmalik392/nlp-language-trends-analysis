@@ -1,0 +1,5 @@
+Topic,Initial Weight (2016),Final Weight (2020),Change (%),Linear Slope,Spearman rho,p-value,Trend Trajectory
+Topic 1: Hospital & Ventilator,0.008,0.458,5394.4,0.09,0.3,0.6238,Ascending
+Topic 2: Commerce & Stock,0.24,0.139,-42.1,-0.0229,-0.3,0.6238,Descending
+Topic 3: Accountability & Equality,0.146,0.173,18.1,0.0023,0.1,0.8729,Stable
+Topic 4: Ballot & Republican,0.606,0.23,-62.0,-0.0694,-0.7,0.1881,Descending

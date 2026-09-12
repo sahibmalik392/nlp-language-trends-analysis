@@ -1,0 +1,3 @@
+Configuration,Vocab Size,Matrix Sparsity (%),LDA Perplexity
+Config A: Baseline (NLTK Default),67,61.58,32.62
+Config B: Domain Lemmatized (Proposed),51,68.46,18.92
